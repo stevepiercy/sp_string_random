@@ -1,12 +1,12 @@
-sp_string_random - returns a string of random alphanumeric characters
-#####################################################################
+sp_string_random - Lasso 9 method returns a string of random alphanumeric characters
+####################################################################################
 
 Description
 ===========
 
-``[sp_string_random]`` returns a string of random alphanumeric characters. It
-accepts an optional integer parameter representing the length of the string to
-be returned.
+``[sp_string_random]`` is a Lasso 9 method that returns a string of random
+alphanumeric characters. It accepts an optional integer parameter representing
+the length of the string to be returned.
 
 Usage
 =====
