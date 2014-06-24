@@ -14,7 +14,7 @@ Usage
 .. code-block:: lasso
 
     sp_string_random
-    '<br />';
+    '<br />'
     sp_string_random(30)
 
 .. code-block:: text
