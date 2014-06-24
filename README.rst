@@ -6,7 +6,8 @@ Description
 
 ``[sp_string_random]`` is a Lasso 9 method that returns a string of random
 alphanumeric characters. It accepts an optional integer parameter representing
-the length of the string to be returned.
+the length of the string to be returned. By default, twenty characters are
+returned.
 
 Usage
 =====
