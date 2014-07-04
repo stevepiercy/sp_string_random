@@ -27,7 +27,7 @@ Usage
 Installation
 ============
 
-Install the file ``sp_string_random.inc`` where you think is best. Place it
+Install the file ``sp_string_random.lasso`` where you think is best. Place it
 either in your Lasso Server's or Site's ``LassoStartup`` or ``LassoLibraries``
 directory, restarting the appropriate scope as needed, or include it in the
 page that calls the methods. I recommend Lasso Site ``LassoStartup``.
